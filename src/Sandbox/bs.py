@@ -2,7 +2,7 @@
 from urllib.request import urlopen
 from bs4 import BeautifulSoup
 
-html = urlopen ('http://www.wowebook.org')
+html = urlopen ('http://www.wowebook.org/page/200')
 bs = BeautifulSoup(html.read(),'html.parser')
 nameList = bs.find_all('h2',{'class','post-title entry-title'})
 for name in nameList:
