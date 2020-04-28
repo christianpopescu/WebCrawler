@@ -1,0 +1,128 @@
+<BookList>
+    <title>some value</title>
+    <book>
+        <Title>C++20 Recipes: A Problem-Solution Approach, 2nd Edition</Title>
+        <Link>https://www.wowebook.org/c20-recipes-a-problem-solution-approach-2nd-edition/</Link>
+        <Summary>eBook Details: Paperback:&#160;657 pages Publisher: WOW! eBook; 2nd edition (May 16, 2020) Language:&#160;English ISBN-10:&#160;148425712X ISBN-13:&#160;978-1484257128 eBook Description: C++20 Recipes: A Problem-Solution Approach, 2nd Edition Discover the newest major features of C++20, including modules, concepts,...</Summary>
+    </book>
+    <book>
+        <Title>Innovative Tableau</Title>
+        <Link>https://www.wowebook.org/innovative-tableau/</Link>
+        <Summary>eBook Details: Paperback:&#160;640 pages Publisher: WOW! eBook; 1st edition (June 9, 2020) Language:&#160;English ISBN-10:&#160;1492075655 ISBN-13:&#160;978-1492075653 eBook Description: Innovative Tableau: 100 More Tips, Tutorials, and Strategies Level up with Tableau to build eye-catching, easy-to-interpret data...</Summary>
+    </book>
+    <book>
+        <Title>Arduino Cookbook, 3rd Edition</Title>
+        <Link>https://www.wowebook.org/arduino-cookbook-3rd-edition/</Link>
+        <Summary>eBook Details: Paperback:&#160;796 pages Publisher: WOW! eBook; 3rd edition (June 9, 2020) Language:&#160;English ISBN-10:&#160;149190352X ISBN-13:&#160;978-1491903520 eBook Description: Arduino Cookbook: Recipes to Begin, Expand, and Enhance Your Projects, 3rd Edition Want to create devices that...</Summary>
+    </book>
+    <book>
+        <Title>Python for Programmers</Title>
+        <Link>https://www.wowebook.org/python-for-programmers/</Link>
+        <Summary>eBook Details: Paperback:&#160;640 pages Publisher:&#160;WOW! eBook (April 1, 2019) Language:&#160;English ISBN-10:&#160;0135224330 ISBN-13:&#160;978-0135224335 eBook Description: Python for Programmers: with Big Data and Artificial Intelligence Case Studies: The professional programmer&#8217;s Deitel guide to Python with introductory...</Summary>
+    </book>
+    <book>
+        <Title>Fullstack React: The Complete Guide to ReactJS and Friends 2020</Title>
+        <Link>https://www.wowebook.org/fullstack-react-the-complete-guide-to-reactjs-and-friends-2020/</Link>
+        <Summary>eBook Details: Paperback: 1491 pages Publisher: Fullstack.io (May 20, 2020) Language:&#160;English ISBN-10:&#160;0991344626 ISBN-13:&#160;978-0991344628 eBook Description: Fullstack React: The Complete Guide to ReactJS and Friends: The up-to-date, in-depth, complete guide to React and friends. Become...</Summary>
+    </book>
+    <book>
+        <Title>Machine Learning with Python for Everyone</Title>
+        <Link>https://www.wowebook.org/machine-learning-with-python-for-everyone/</Link>
+        <Summary>eBook Details: Paperback:&#160;592 pages Publisher: WOW! eBook; 1st edition (August 15, 2019) Language:&#160;English ISBN-10:&#160;0134845625 ISBN-13:&#160;978-0134845623 eBook Description: Machine Learning with Python for Everyone: The Complete Beginner&#8217;s Guide to Understanding and Building Machine Learning Systems...</Summary>
+    </book>
+    <book>
+        <Title>C# 8.0 in a Nutshell</Title>
+        <Link>https://www.wowebook.org/c-8-0-in-a-nutshell/</Link>
+        <Summary>eBook Details: Paperback:&#160;1104 pages Publisher: WOW! eBook; 1st edition (May 26, 2020) Language:&#160;English ISBN-10:&#160;1492051136 ISBN-13:&#160;978-1492051138 eBook Description: C# 8.0 in a Nutshell: The Definitive Reference When you have questions about C# 8.0 and .NET...</Summary>
+    </book>
+    <book>
+        <Title>Mobile Deep Learning with TensorFlow Lite, ML Kit and Flutter</Title>
+        <Link>https://www.wowebook.org/mobile-deep-learning-with-tensorflow-lite-ml-kit-and-flutter/</Link>
+        <Summary>eBook Details: Paperback:&#160;380 pages Publisher: WOW! eBook (April 6, 2020) Language:&#160;English ISBN-10:&#160;1789611210 ISBN-13:&#160;978-1789611212 eBook Description: Mobile Deep Learning with TensorFlow Lite, ML Kit and Flutter: Learn how to deploy effective deep learning solutions on...</Summary>
+    </book>
+    <book>
+        <Title>Flutter Projects</Title>
+        <Link>https://www.wowebook.org/flutter-projects/</Link>
+        <Summary>eBook Details: Paperback:&#160;490 pages Publisher: WOW! eBook (April 7, 2020) Language:&#160;English ISBN-10:&#160;1838647775 ISBN-13:&#160;978-1838647773 eBook Description: Flutter Projects: Learn Flutter and the Dart programming language by building impressive real-world mobile applications for Android and iOS...</Summary>
+    </book>
+    <book>
+        <Title>Securing Blockchain Networks like Ethereum and Hyperledger Fabric</Title>
+        <Link>https://www.wowebook.org/securing-blockchain-networks-like-ethereum-and-hyperledger-fabric/</Link>
+        <Summary>eBook Details: Paperback:&#160;244 pages Publisher: WOW! eBook (April 13, 2020) Language:&#160;English ISBN-10:&#160;1838646485 ISBN-13:&#160;978-1838646486 eBook Description: Securing Blockchain Networks like Ethereum and Hyperledger Fabric: Build secure private blockchain networks to handle mission-critical security challenges such...</Summary>
+    </book>
+    <book>
+        <Title>Learn Azure Sentinel</Title>
+        <Link>https://www.wowebook.org/learn-azure-sentinel/</Link>
+        <Summary>eBook Details: Paperback:&#160;404 pages Publisher: WOW! eBook (April 7, 2020) Language:&#160;English ISBN-10:&#160;183898092X ISBN-13:&#160;978-1838980924 eBook Description: Learn Azure Sentinel: Understand how to set up, configure, and use Azure Sentinel to provide security incident and event...</Summary>
+    </book>
+    <book>
+        <Title>Mobile Artificial Intelligence Projects</Title>
+        <Link>https://www.wowebook.org/mobile-artificial-intelligence-projects/</Link>
+        <Summary>eBook Details: Paperback:&#160;312 pages Publisher: WOW! eBook (March 30, 2019) Language:&#160;English ISBN-10:&#160;1789344077 ISBN-13:&#160;978-1789344073 eBook Description: Mobile Artificial Intelligence Projects: Learn to build end-to-end AI apps from scratch for Android and iOS using TensorFlow Lite,...</Summary>
+    </book>
+    <book>
+        <Title>Linux Format UK January 2019</Title>
+        <Link>https://www.wowebook.org/linux-format-uk-january-2019/</Link>
+        <Summary>Linux Format UK January 2019 English | 100 pages | True PDF | 30.4 MB</Summary>
+    </book>
+    <book>
+        <Title>FHM Australia January 2019</Title>
+        <Link>https://www.wowebook.org/fhm-australia-january-2019/</Link>
+        <Summary>FHM Australia January 2019 English | 100 pages | True PDF | 41.8 MB</Summary>
+    </book>
+    <book>
+        <Title>Computeractive 01 January 2019</Title>
+        <Link>https://www.wowebook.org/computeractive-01-january-2019/</Link>
+        <Summary>Computeractive 01 January 2019 English | 76 pages | True PDF | 51.9 MB</Summary>
+    </book>
+    <book>
+        <Title>Linux User &amp; Developer September 2018</Title>
+        <Link>https://www.wowebook.org/linux-user-developer-september-2018/</Link>
+        <Summary>Linux User &amp; Developer September 2018 English | 98 pages | True PDF | 10.7 MB</Summary>
+    </book>
+    <book>
+        <Title>Linux User &amp; Developer August 2018</Title>
+        <Link>https://www.wowebook.org/linux-user-developer-august-2018/</Link>
+        <Summary>Linux User &amp; Developer August 2018 English | 98 pages | True PDF | 8.9 MB</Summary>
+    </book>
+    <book>
+        <Title>New Scientist May 04, 2019</Title>
+        <Link>https://www.wowebook.org/new-scientist-may-04-2019/</Link>
+        <Summary>New Scientist May 04, 2019 English | 62 pages | True PDF | 31.6 MB</Summary>
+    </book>
+    <book>
+        <Title>Full-Stack React Projects &#8211; Second Edition</Title>
+        <Link>https://www.wowebook.org/full-stack-react-projects-second-edition/</Link>
+        <Summary>eBook Details: Paperback:&#160;716 pages Publisher: WOW! eBook (April 17, 2020) Language:&#160;English ISBN-10:&#160;1839215410 ISBN-13:&#160;978-1839215414 eBook Description: Full-Stack React Projects, 2nd Edition: A fun project-based guide to help you develop practical skills that are easily transferable...</Summary>
+    </book>
+    <book>
+        <Title>Embedded Programming with Modern C++ Cookbook</Title>
+        <Link>https://www.wowebook.org/embedded-programming-with-modern-c-cookbook/</Link>
+        <Summary>eBook Details: Paperback:&#160;412 pages Publisher: WOW! eBook (April 17, 2020) Language:&#160;English ISBN-10:&#160;183882104X ISBN-13:&#160;978-1838821043 eBook Description: Embedded Programming with Modern C++ Cookbook: Explore various constraints and challenges that embedded developers encounter in their daily tasks...</Summary>
+    </book>
+    <book>
+        <Title>Network Automation Cookbook</Title>
+        <Link>https://www.wowebook.org/network-automation-cookbook/</Link>
+        <Summary>eBook Details: Paperback:&#160;482 pages Publisher: WOW! eBook (April 17, 2020) Language:&#160;English ISBN-10:&#160;178995648X ISBN-13:&#160;978-1789956481 eBook Description: Network Automation Cookbook: Take your network automation skills to the next level by following detailed recipes outlining how to...</Summary>
+    </book>
+    <book>
+        <Title>Digital Forensics with Kali Linux &#8211; Second Edition</Title>
+        <Link>https://www.wowebook.org/digital-forensics-with-kali-linux-second-edition/</Link>
+        <Summary>eBook Details: Paperback:&#160;334 pages Publisher: WOW! eBook (April 17, 2020) Language:&#160;English ISBN-10:&#160;1838640800 ISBN-13:&#160;978-1838640804 eBook Description: Digital Forensics with Kali Linux, 2nd Edition: Take your forensic abilities and investigation skills to the next level using...</Summary>
+    </book>
+    <book>
+        <Title>Interactive Data Visualization with Python &#8211; Second Edition</Title>
+        <Link>https://www.wowebook.org/interactive-data-visualization-with-python-second-edition/</Link>
+        <Summary>eBook Details: Paperback:&#160;362 pages Publisher: WOW! eBook (April 14, 2020) Language:&#160;English ISBN-10:&#160;1800200943 ISBN-13:&#160;978-1800200944 eBook Description: Interactive Data Visualization with Python, 2nd Edition: Create your own clear and impactful interactive data visualizations with the powerful...</Summary>
+    </book>
+    <book>
+        <Title>Agile Web Development with Rails 6</Title>
+        <Link>https://www.wowebook.org/agile-web-development-with-rails-6/</Link>
+        <Summary>eBook Details: Paperback:&#160;496 pages Publisher: WOW! eBook; 1st edition (February 25, 2020) Language:&#160;English ISBN-10:&#160;1680506706 ISBN-13:&#160;978-1680506709 eBook Description: Agile Web Development with Rails 6 Learn Rails the way the Rails core team recommends it, along...</Summary>
+    </book>
+    <book>
+        <Title>Python Image Processing Cookbook</Title>
+        <Link>https://www.wowebook.org/python-image-processing-cookbook/</Link>
+        <Summary>eBook Details: Paperback:&#160;438 pages Publisher: WOW! eBook (April 17, 2020) Language:&#160;English ISBN-10:&#160;1789537142 ISBN-13:&#160;978-1789537147 eBook Description: Python Image Processing Cookbook: Explore Keras, scikit-image, OpenCV, Matplotlib, and many other Python tools and frameworks to solve real-world...</Summary>
+    </book>
+</BookList>

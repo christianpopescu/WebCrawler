@@ -48,4 +48,43 @@ Title: Agile Web Development with Rails 6
 Link: https://www.wowebook.org/agile-web-development-with-rails-6/
 Title: Python Image Processing Cookbook
 Link: https://www.wowebook.org/python-image-processing-cookbook/
-b'<BookList />'
+Title: MicroPython Projects
+Link: https://www.wowebook.org/micropython-projects/
+Title: Tribe of Hackers Security Leaders: Tribal Knowledge from the best in Cybersecurity Leadership
+Link: https://www.wowebook.org/tribe-of-hackers-security-leaders-tribal-knowledge-from-the-best-in-cybersecurity-leadership/
+Title: Practical Statistics for Data Scientists, 2nd Edition
+Link: https://www.wowebook.org/practical-statistics-for-data-scientists-2nd-edition/
+Title: Distributed Tracing in Practice
+Link: https://www.wowebook.org/distributed-tracing-in-practice/
+Title: Genomics in the Cloud
+Link: https://www.wowebook.org/genomics-in-the-cloud/
+Title: The Software Architect Elevator
+Link: https://www.wowebook.org/the-software-architect-elevator/
+Title: Building an Anonymization Pipeline
+Link: https://www.wowebook.org/building-an-anonymization-pipeline/
+Title: Container Security
+Link: https://www.wowebook.org/container-security/
+Title: Python One-Liners
+Link: https://www.wowebook.org/python-one-liners/
+Title: ng-book: The Complete Book on Angular 9
+Link: https://www.wowebook.org/ng-book-the-complete-book-on-angular-9/
+Title: Learn SwiftUI
+Link: https://www.wowebook.org/learn-swiftui/
+Title: Natural Language Processing with Python and spaCy
+Link: https://www.wowebook.org/natural-language-processing-with-python-and-spacy/
+Title: Cassandra: The Definitive Guide, 3rd Edition
+Link: https://www.wowebook.org/cassandra-the-definitive-guide-3rd-edition/
+Title: Knative Cookbook
+Link: https://www.wowebook.org/knative-cookbook/
+Title: Introducing the HTML5 Web Speech API
+Link: https://www.wowebook.org/introducing-the-html5-web-speech-api/
+Title: Beginning MATLAB and Simulink
+Link: https://www.wowebook.org/beginning-matlab-and-simulink/
+Title: Practical MATLAB Modeling with Simulink
+Link: https://www.wowebook.org/practical-matlab-modeling-with-simulink/
+Title: Beginning Unreal Game Development
+Link: https://www.wowebook.org/beginning-unreal-game-development/
+Title: Chaos Engineering: System Resiliency in Practice
+Link: https://www.wowebook.org/chaos-engineering-system-resiliency-in-practice/
+Title: Cloud Debugging and Profiling in Microsoft Azure
+Link: https://www.wowebook.org/cloud-debugging-and-profiling-in-microsoft-azure/

@@ -1,14 +1,13 @@
 
 from urllib.request import urlopen
 from bs4 import BeautifulSoup
-from xml.etree.ElementTree import Element, SubElement, Comment, tostring
+from xml.etree.ElementTree import Element, SubElement, Comment, tostring, ElementTree
 
 
-BookList = Element('BookList')
-fout = open('wowebookorg_lst.txt','wt')
+root = Element('BookList')
 
 
-for i in range (1,6):
+for i in range (1,10):
     html = urlopen ('http://www.wowebook.org/page/'+str(i))
     print ('Page: ' + str(i))
     bs = BeautifulSoup(html.read(),'html.parser')
@@ -19,14 +18,15 @@ for i in range (1,6):
 #    for art in articleList:
 #        print(art.time.attrs['datetime'],file=fout)
     for art in articleList:
+        book = SubElement(root,'book')
         ttl = art.find('h2',{'class','post-title entry-title'})
-        print('Title: ', file=fout, end='')
-		
-        print(ttl.a.get_text(), file=fout)
-        print('Link: ', file=fout, end='')
-        print(ttl.a.attrs['href'], file=fout)
+        title = SubElement(book,'Title').text = ttl.a.get_text()
+        link = SubElement(book,'Link').text = ttl.a.attrs['href']
+        dt = SubElement(book,'DateTime').text = art.time.attrs['datetime']
 #        sm = art.find('div',{'class','entry excerpt entry-summary'})
+#        sumary = SubElement(book,'Summary').text = sm.p.get_text()
 #        print('Summary:', file=fout)
 #        print (sm.p.get_text(), file=fout)
 
-print (tostring(BookList), file=fout)
+tree = ElementTree(root)
+tree.write('Wowebook_books_list.xml')
