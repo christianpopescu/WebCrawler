@@ -1,0 +1,51 @@
+Title: C++20 Recipes: A Problem-Solution Approach, 2nd Edition
+Link: https://www.wowebook.org/c20-recipes-a-problem-solution-approach-2nd-edition/
+Title: Innovative Tableau
+Link: https://www.wowebook.org/innovative-tableau/
+Title: Arduino Cookbook, 3rd Edition
+Link: https://www.wowebook.org/arduino-cookbook-3rd-edition/
+Title: Python for Programmers
+Link: https://www.wowebook.org/python-for-programmers/
+Title: Fullstack React: The Complete Guide to ReactJS and Friends 2020
+Link: https://www.wowebook.org/fullstack-react-the-complete-guide-to-reactjs-and-friends-2020/
+Title: Machine Learning with Python for Everyone
+Link: https://www.wowebook.org/machine-learning-with-python-for-everyone/
+Title: C# 8.0 in a Nutshell
+Link: https://www.wowebook.org/c-8-0-in-a-nutshell/
+Title: Mobile Deep Learning with TensorFlow Lite, ML Kit and Flutter
+Link: https://www.wowebook.org/mobile-deep-learning-with-tensorflow-lite-ml-kit-and-flutter/
+Title: Flutter Projects
+Link: https://www.wowebook.org/flutter-projects/
+Title: Securing Blockchain Networks like Ethereum and Hyperledger Fabric
+Link: https://www.wowebook.org/securing-blockchain-networks-like-ethereum-and-hyperledger-fabric/
+Title: Learn Azure Sentinel
+Link: https://www.wowebook.org/learn-azure-sentinel/
+Title: Mobile Artificial Intelligence Projects
+Link: https://www.wowebook.org/mobile-artificial-intelligence-projects/
+Title: Linux Format UK January 2019
+Link: https://www.wowebook.org/linux-format-uk-january-2019/
+Title: FHM Australia January 2019
+Link: https://www.wowebook.org/fhm-australia-january-2019/
+Title: Computeractive 01 January 2019
+Link: https://www.wowebook.org/computeractive-01-january-2019/
+Title: Linux User & Developer September 2018
+Link: https://www.wowebook.org/linux-user-developer-september-2018/
+Title: Linux User & Developer August 2018
+Link: https://www.wowebook.org/linux-user-developer-august-2018/
+Title: New Scientist May 04, 2019
+Link: https://www.wowebook.org/new-scientist-may-04-2019/
+Title: Full-Stack React Projects – Second Edition
+Link: https://www.wowebook.org/full-stack-react-projects-second-edition/
+Title: Embedded Programming with Modern C++ Cookbook
+Link: https://www.wowebook.org/embedded-programming-with-modern-c-cookbook/
+Title: Network Automation Cookbook
+Link: https://www.wowebook.org/network-automation-cookbook/
+Title: Digital Forensics with Kali Linux – Second Edition
+Link: https://www.wowebook.org/digital-forensics-with-kali-linux-second-edition/
+Title: Interactive Data Visualization with Python – Second Edition
+Link: https://www.wowebook.org/interactive-data-visualization-with-python-second-edition/
+Title: Agile Web Development with Rails 6
+Link: https://www.wowebook.org/agile-web-development-with-rails-6/
+Title: Python Image Processing Cookbook
+Link: https://www.wowebook.org/python-image-processing-cookbook/
+b'<BookList />'
