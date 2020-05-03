@@ -7,7 +7,7 @@ from xml.etree.ElementTree import Element, SubElement, Comment, tostring, Elemen
 root = Element('BookList')
 
 
-for i in range (1,10):
+for i in range (1,201):
     html = urlopen ('http://www.wowebook.org/page/'+str(i))
     print ('Page: ' + str(i))
     bs = BeautifulSoup(html.read(),'html.parser')
